@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1", "Assignment1.csproj", "{7CF2B606-ED60-4419-BAD4-00FFF88906F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempAndSort consumer", "..\TempAndSort consumer\TempAndSort consumer.csproj", "{8E737941-AD1F-4214-B26B-2E890FB6FAE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempAndSortGUI", "TempAndSortGUI\TempAndSortGUI.csproj", "{8B25FBA5-9038-43EB-B530-9884FF06609B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{7CF2B606-ED60-4419-BAD4-00FFF88906F8} = {7CF2B606-ED60-4419-BAD4-00FFF88906F8}
 	EndProjectSection
@@ -20,10 +20,10 @@ Global
 		{7CF2B606-ED60-4419-BAD4-00FFF88906F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CF2B606-ED60-4419-BAD4-00FFF88906F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CF2B606-ED60-4419-BAD4-00FFF88906F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8E737941-AD1F-4214-B26B-2E890FB6FAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E737941-AD1F-4214-B26B-2E890FB6FAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E737941-AD1F-4214-B26B-2E890FB6FAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E737941-AD1F-4214-B26B-2E890FB6FAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B25FBA5-9038-43EB-B530-9884FF06609B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B25FBA5-9038-43EB-B530-9884FF06609B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B25FBA5-9038-43EB-B530-9884FF06609B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B25FBA5-9038-43EB-B530-9884FF06609B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
